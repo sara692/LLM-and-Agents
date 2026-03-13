@@ -1,4 +1,4 @@
-# 🤖 LLM and Agents
+# 🤖 LLM
 
 A collection of projects exploring Large Language Models (LLMs), AI Agents, and NLP techniques — from simple Q&A apps to emotion classification systems.
 
@@ -18,10 +18,6 @@ This repository grows over time as I learn and build more in the AI space.
 ## 🧠 What is an LLM?
 
 A **Large Language Model (LLM)** is an AI model trained on massive amounts of text that can understand and generate human language. Examples include Llama, Mistral, GPT, and Gemini.
-
-## 🤖 What is an AI Agent?
-
-An **AI Agent** is an LLM that can do more than just answer questions — it can use tools, browse the web, write and run code, and complete multi-step tasks on its own.
 
 ---
 
